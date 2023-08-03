@@ -1,1 +1,1 @@
-# data-mining
+Data mining projects include Regression, Classification, Clustering and Neural Networks.
