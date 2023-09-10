@@ -6,13 +6,9 @@ This project explores the application of clustering algorithms to three distinct
 
 2. **Visualization and Analysis**:
    - For each dataset, we visualize it in 2D plots to gain insights into its structure.
-   - We analyze and make algorithm choices based on the visualizations:
-     - For the **first dataset**, K-means or FCM is preferred.
-     - For the **second dataset**, K-means is recommended due to its performance.
-     - For the **third dataset**, K-means or FCM is a suitable choice.
 
 3. **Algorithm Implementation**:
-   - We define functions for each algorithm and additional utility functions to find optimal parameters like the number of clusters (`K-means`), `eps`, and `min_samples` (`DBSCAN`).
+   - We define functions for each algorithm and additional utility functions to find optimal parameters like the number of clusters (`K-means`), and `min_samples` (`DBSCAN`).
    - We execute these algorithms on each dataset, visualizing the results and computing relevant metrics.
 
 4. **Model Selection**:
